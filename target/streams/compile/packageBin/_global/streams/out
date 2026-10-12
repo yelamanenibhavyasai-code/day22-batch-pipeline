@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/bhavya/day22-batch-pipeline/target/scala-2.12/day22-batch-pipeline_2.12-0.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day22BatchPipeline$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bhavya/day22-batch-pipeline/target/scala-2.12/classes/Day22BatchPipeline$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day22BatchPipeline.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bhavya/day22-batch-pipeline/target/scala-2.12/classes/Day22BatchPipeline.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
